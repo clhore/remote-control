@@ -1,4 +1,7 @@
-#!/sbin/python3
+#!/bin/python3
+
+# autor: Adrián Luján Muñoz aka (clhore)
+
 import requests
 import json
 import sys
